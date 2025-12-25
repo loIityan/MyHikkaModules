@@ -1,18 +1,18 @@
-<b>*  _   _                   _                   __  __           _       _
-<b>* | | | | __ _ _ __ _   _ | |_ _   _  __ _    |  \/  | ___   __| |_   _| | ___  ___
-<b>* | |_| |/ _` | '__| | | || __| | | |/ _` |(_)| |\/| |/ _ \ / _` | | | | |/ _ \/ __|
-<b>* |  _  | (_| | |  | |_| || |_| |_| | (_| |(_)| |  | | (_) | (_| | |_| | |  __/\__ \
-<b>* |_| |_|\__,_|_|   \__,_|\__|\__,  |\__,_|(_)|_|  |_|\___/ \__,_|\__,_|_|\___||___/
-<b>*                                ___/
-<b>*
-<b>*                          © Copyright 2025</b>
-<b>*
-<b>*                      https://t.me/HarutyaModules</b>
-<b>*
-<b>* 🔒 Code is licensed under GNU AGPLv3
-<b>* 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-<b>* ⛔️ You CANNOT edit this file without direct permission from the Great Alchemist.
-<b>* ⛔️ You CANNOT distribute this file if you have modified it without my divine blessing.
+#          _   _                   _                  __  __           _       _
+#         | | | | __ _ _ __ _   _ | |_ _   _  __ _   |  \/  | ___   __| |_   _| | ___  ___
+#         | |_| |/ _` | '__| | | || __| | | |/ _` |  | |\/| |/ _ \ / _` | | | | |/ _ \/ __|
+#         |  _  | (_| | |  | |_| || |_| |_| | (_| |  | |  | | (_) | (_| | |_| | |  __/\__ \
+#         |_| |_|\__,_|_|   \__,_|\__|\__,  |\__,_|  |_|  |_|\___/ \__,_|\__,_|_|\___||___/
+#                                       ___/
+#
+#                                     © Copyright 2025</b>
+#
+#                                https://t.me/HarutyaModules</b>
+#
+#   🔒 Code is licensed under GNU AGPLv3
+#   🌐 https://www.gnu.org/licenses/agpl-3.0.html
+#   ⛔️ You CANNOT edit this file without direct permission from the Great Alchemist.
+#   ⛔️ You CANNOT distribute this file if you have modified it without my divine blessing.
 
 
 
@@ -425,3 +425,4 @@ class AetherSoulDeusMod(loader.Module):
         """— Принудительно сжать историю (вызвать summary)."""
 
         await self._summarize_history(message.chat_id, message)
+
