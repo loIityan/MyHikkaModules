@@ -20,11 +20,10 @@
 
 # <b>lang: "sum"</b>
 # <b>author: "HarutyaModules"</b>
-
 # <b>translation:</b>
-# <b>shadow: "ᡤᡳ Darrell"  gissu Тень </b>
-# <b>ether: "𒀭"           an Эфир</b>
-# <b>mistress: "𒊩"        nin Хозяйка</b>
+# <b>shadow: "ᡤᡳ Darrell"  Тень </b>
+# <b>ether: "𒀭"           Эфир</b>
+# <b>mistress: "𒊩"         Хозяйка</b>
 
 
 heroku_security:
